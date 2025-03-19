@@ -151,5 +151,3 @@ console.log(subtrair(4, 2))
 // Arrow function
 let multiplicar = (numA, numB) => numA * numB
 console.log(multiplicar(2, 10))
-
-
