@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/Raylanerca/IESB_PROGRAMACAO_DISPOSITIVOS_MOVEIS#readme",
   "dependencies": {
+    "@react-navigation/native": "^7.1.8",
+    "@react-navigation/stack": "^7.3.1",
     "express": "^4.21.2",
-    "react-native-paper": "^5.13.1",
-    "react-native-safe-area-context": "^5.3.0",
+    "react-native-paper": "^5.14.0",
+    "react-native-safe-area-context": "^5.4.0",
     "react-native-vector-icons": "^10.2.0"
   }
 }
